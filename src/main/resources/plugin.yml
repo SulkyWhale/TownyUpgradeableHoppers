@@ -1,0 +1,6 @@
+name: TownyUpgradeableHoppers
+version: ${project.version}
+main: io.github.sulkywhale.townyupgradeablehoppers.TownyUpgradeableHoppers
+api-version: '1.21'
+author: Sulky_Whale
+depend: [ Towny, UpgradeableHoppers ]
